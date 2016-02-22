@@ -1,4 +1,4 @@
-NAME=example
+BIN=example
 
 SRC=example.c
 
